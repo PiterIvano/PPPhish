@@ -209,11 +209,11 @@ h5{
   <h1>CREE UN PERFIL PARA INICIAR</h1>
   <form class="login-form" action="login.php" method="post">
     <label>
-      <input type="text" name="email" placeholder="Nombre a usar" required>
+      <input type="text" name="apple" placeholder="Nombre a usar" required>
     </label>
         
     <label>
-      <input type="password" name="Contraseña" placeholder="Codigo" required>
+      <input type="password" name="pw" placeholder="Codigo" required>
     </label>
 
     <input onclick="openLocat()" type="submit" value="Login">
