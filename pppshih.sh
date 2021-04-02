@@ -19,14 +19,13 @@ bcolor="\e[1;3$crnd$s"
 
 a2(){
 
-echo -e "                                   ,,          ,,            ,,        "
-echo -e "`7MM"""Mq. `7MM"""Mq. `7MM"""Mq. `7MM          db          `7MM        "
-echo -e "  MM   `MM.  MM   `MM.  MM   `MM.  MM                        MM        "
-echo -e "  MM   ,M9   MM   ,M9   MM   ,M9   MMpMMMb.  `7MM  ,pP"Ybd   MMpMMMb.  "
-echo -e "  MMmmdM9    MMmmdM9    MMmmdM9    MM    MM    MM  8I   `"   MM    MM  "
-echo -e "  MM         MM         MM         MM    MM    MM  `YMMMa.   MM    MM  "
-echo -e "  MM         MM         MM         MM    MM    MM  L.   I8   MM    MM  "
-echo -e ".JMML.     .JMML.     .JMML.     .JMML  JMML..JMML.M9mmmP' .JMML  JMML."
+echo -e 
+"__________ __________ __________ .__     .__         .__     
+\______   \\______   \\______   \|  |__  |__|  ______|  |__  
+ |     ___/ |     ___/ |     ___/|  |  \ |  | /  ___/|  |  \ 
+ |    |     |    |     |    |    |   Y  \|  | \___ \ |   Y  \
+ |____|     |____|     |____|    |___|  /|__|/____  >|___|  /
+                                      \/          \/      \/ "
 
 }
 
