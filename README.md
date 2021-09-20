@@ -18,4 +18,4 @@ Created by Piter
 
 Creditos: DeepSociety
 
-Puedes enviar Emails: http://bypiterrecoursesinformaticos.ibx.lat
+Puedes enviar Emails: 
