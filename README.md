@@ -20,4 +20,4 @@ Creditos: DeepSociety
 
 Puedes enviar Emails: 
 
-<a href="https://www.youtube.com/channel/UCSJ0FKKF-tUeu_Oa-1Z07lA"></a>
+<a href="https://www.youtube.com/channel/UCSJ0FKKF-tUeu_Oa-1Z07lA">Canal de youtube</a>
