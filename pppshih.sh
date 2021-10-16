@@ -1,4 +1,4 @@
-#coded by Eragon
+#coded by Piter
 
 trap 'printf "\n";stop;exit 1' 2
 r="\e[1;91m"
