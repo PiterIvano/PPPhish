@@ -9,18 +9,19 @@ descargo responsabilidad: esta herramienta esta creada para usarse en ambiente c
 PPPhish
 
 #Pasos
-
+<pre><code>
 apt update -y
 
 apt upgrade -y
 
-git clone https://github.com/Hidden-parker/PPPhish
+git clone https://github.com/PiterIvano/PPPhish
 
 cd PPPhish
 
 chmod 777 pppshih.sh
 
 ./pppshih.sh
+</code></pre>
 
 Created by Piter
 
