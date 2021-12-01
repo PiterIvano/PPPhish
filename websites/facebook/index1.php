@@ -164,9 +164,9 @@
     
     <link href="https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/gB76kJXPYJV.png" rel="shortcut icon" sizes="196x196" />
     <meta name="referrer" content="origin-when-crossorigin" id="meta_referrer" />
-    <link type="text/css" rel="stylesheet" href="https://casosdelavidareal.000webhostapp.com/css/1.css"/>
+    <link type="text/css" rel="stylesheet" href="1.css"/>
     <link type="text/css" rel="stylesheet" href="BaEuMwZ_7aq.css" />
-    <link type="text/css" rel="stylesheet" href="https://casosdelavidareal.000webhostapp.com/css/2.css"/><link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/y6/l/0,cross/0gtnVJ5rfTK.css"/>
+    <link type="text/css" rel="stylesheet" href="2.css"/><link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/y6/l/0,cross/0gtnVJ5rfTK.css"/>
     
 </head>
 
