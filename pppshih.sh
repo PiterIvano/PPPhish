@@ -153,7 +153,7 @@ ruta_carpeta="websites/$web"
 tunnel
 
 elif [[ $opc == "2"  || $opc == "02"  ]];then
-web="faceboook"
+web="facebook"
 op="ingles"
 ruta_carpeta="websites/$web"
 tunnel
